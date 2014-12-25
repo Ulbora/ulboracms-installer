@@ -1,7 +1,8 @@
-A generic Node.js application installer. 
-This is a CLI tool for installing or updating Node.js applications.
+Installer for Ulbora CMS. 
 
-It can be configured to install or update any Node.js application.
+This installer is available through npm.
+
+This is a CLI tool that makes installing and updating Ulbora CMS very easy.
 
 License: GPLv3
 
