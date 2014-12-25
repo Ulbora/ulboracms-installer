@@ -2,7 +2,7 @@
     "name": "ulboracms-installer",
     "preferGlobal": "true",
     "description": "Ulbora CMS Node.js application installer",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "bin": {
         "ulboracms-installer": "./bin/ulboracms-installer"
     },
