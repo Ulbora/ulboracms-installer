@@ -2,9 +2,9 @@
     "name": "ulboracms-installer",
     "preferGlobal": "true",
     "description": "Ulbora CMS Node.js application installer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "bin": {
-        "uins": "./bin/ulboracms"
+        "uins": "./bin/ulboracms-installer"
     },
     "author": {
         "name": "ken williamson",
@@ -13,7 +13,11 @@
     "maintainers": [
         "Chris williamson <chrisulborapublic@gmail.com>"
     ],
-    "keywords": [],
+    "keywords": [
+        "ulbora",
+        "ulboracms",
+        "cms"
+    ],
     "licenses": {
         "type": "GPLv3"
     },
