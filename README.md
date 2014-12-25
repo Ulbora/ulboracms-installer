@@ -15,6 +15,10 @@ License: GPLv3
 ##How to use:
 
  * For install type: ulboracms-installer install appname ver=2.0(optional) path=/somePath(optional)
+   * Version defaults to the latest version
+   * Path defaults to:
+     * Linux: /var/www-node
+     * Windows: c:\nodeapps
 
  * For update ulboracms type: ulboracms-installer update appname ver=2.0(optional) path=/somePath(optional)
 
