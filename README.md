@@ -1,4 +1,6 @@
 ###Installer for Ulbora CMS. 
+##Please Note:
+The easiest way to get Ulbora CMS is to use Docker: https://hub.docker.com/r/ulboralabs/ulboracms/
 
 This installer is available through npm.
 
